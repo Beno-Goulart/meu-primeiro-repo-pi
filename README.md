@@ -2,3 +2,5 @@
 Primeiro Repositório da aula de PI \(0_0)/
 
 alterando repositório REMOTAMENTE ;)
+
+Alteranto repositório LOCALMENTE :)
